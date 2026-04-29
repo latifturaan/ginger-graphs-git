@@ -1,2 +1,2 @@
 # ginger-graphs-git
-git
+How git works
